@@ -12,6 +12,7 @@ namespace Helper
         {
             int aa = 1;
             int b = aa / 23;
+            string password = "abc@123";
         }
     }
 }
