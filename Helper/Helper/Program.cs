@@ -32,6 +32,17 @@ namespace Helper
         }
 
         /// <summary>
+        /// Add method to add two numbers
+        /// </summary>
+        /// <param name="a">param 1</param>
+        /// <param name="b">param 2</param>
+        /// <returns>returns sum of 2 numbers</returns>
+        public int AddAnother(int a, int b)
+        {
+            return a + b;
+        }
+
+        /// <summary>
         /// Main method
         /// </summary>
         /// <param name="args">run args</param>
